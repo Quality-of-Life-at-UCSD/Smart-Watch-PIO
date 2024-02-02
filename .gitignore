@@ -1,0 +1,7 @@
+.pio
+.vscode/
+.DS_Store
+firmware.elf
+bin
+/*.png
+screenshots/
